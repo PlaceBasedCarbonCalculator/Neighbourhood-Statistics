@@ -1,0 +1,16 @@
+DATASET_TITLE,"Hospital Admissions: Summary Statistics, 2004/05",,,,,,,,,,FROM,Apr-2004,Apr-2004,Apr-2004,Apr-2004,Apr-2004,Apr-2004,Apr-2004,Apr-2004,Apr-2004
+AREA_TYPE,Region,,,,,,,,,,TO,Mar-2005,Mar-2005,Mar-2005,Mar-2005,Mar-2005,Mar-2005,Mar-2005,Mar-2005,Mar-2005
+GEO_HIERARCHY,NeSS Geography Hierarchy,,,,,,,,,,HEADING,All Finished Admission Episodes,Coronary Heart Disease (CHD); Diagnosis,Cerebrovascular Disease (including Stroke); Diagnosis,Cancer (excluding non-melanoma skin cancer); Diagnosis,Falls (basic accidental falls); External cause,Coronary Artery Bypass Graft (CABG) and Percutaneous Transluminal Coronary Angioplasty (PTCA); Operation,Hip Replacement; Operation,Knee Replacement; Operation,Cataract; Operation
+,,,,,,,,,,,MEASUREMENT_UNIT,Count,Count,Count,Count,Count,Count,Count,Count,Count
+,,,,,,,,,,,STATISTICAL_UNIT,Admission Episodes,Admission Episodes,Admission Episodes,Admission Episodes,Admission Episodes,Admission Episodes,Admission Episodes,Admission Episodes,Admission Episodes
+UK_CODE,UK_NAME,GB_CODE,GB_NAME,EW_CODE,EW_NAME,CTRY_CODE,CTRY_NAME,GOR_CODE,GOR_NAME,AREA_METADATA,,DATA_VALUE,DATA_VALUE,DATA_VALUE,DATA_VALUE,DATA_VALUE,DATA_VALUE,DATA_VALUE,DATA_VALUE,DATA_VALUE
+"213","United Kingdom","078","Great Britain","727","England and Wales","064","England",,,,,10766134,844765,182610,1152128,307491,59112,57454,55902,317892
+"213","United Kingdom","078","Great Britain","727","England and Wales","064","England","A","North East",,,660451,59549,10760,81195,18352,3101,2774,3082,19949
+"213","United Kingdom","078","Great Britain","727","England and Wales","064","England","B","North West",,,1583208,152922,25836,130681,50647,7527,7513,7233,41595
+"213","United Kingdom","078","Great Britain","727","England and Wales","064","England","D","Yorkshire and The Humber",,,1206218,98222,17878,129752,31656,6372,5605,5441,32046
+"213","United Kingdom","078","Great Britain","727","England and Wales","064","England","E","East Midlands",,,966275,79486,17125,118802,24724,4487,5403,5653,27803
+"213","United Kingdom","078","Great Britain","727","England and Wales","064","England","F","West Midlands",,,1170471,81092,21775,145566,29634,6327,6810,6618,27833
+"213","United Kingdom","078","Great Britain","727","England and Wales","064","England","G","East of England",,,1102210,92872,18268,123441,32269,6849,6812,6202,37876
+"213","United Kingdom","078","Great Britain","727","England and Wales","064","England","H","London",,,1368405,84530,21799,127236,35884,8901,4859,5734,38760
+"213","United Kingdom","078","Great Britain","727","England and Wales","064","England","J","South East",,,1545837,108549,26417,151143,48289,9459,9734,9036,52922
+"213","United Kingdom","078","Great Britain","727","England and Wales","064","England","K","South West",,,1163059,87543,22752,144312,36036,6089,7944,6903,39108

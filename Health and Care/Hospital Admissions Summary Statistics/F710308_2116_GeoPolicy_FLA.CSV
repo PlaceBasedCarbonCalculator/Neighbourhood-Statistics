@@ -1,0 +1,42 @@
+DATASET_TITLE,"Hospital Admissions: Summary Statistics, 2007/08",,,,,,,,FROM,Apr-2007,Apr-2007,Apr-2007,Apr-2007,Apr-2007,Apr-2007,Apr-2007,Apr-2007,Apr-2007
+AREA_TYPE,Former Local Authority,,,,,,,,TO,Mar-2008,Mar-2008,Mar-2008,Mar-2008,Mar-2008,Mar-2008,Mar-2008,Mar-2008,Mar-2008
+GEO_HIERARCHY,NeSS Geography Hierarchy,,,,,,,,HEADING,All Finished Admission Episodes,Coronary Heart Disease (CHD); Diagnosis,Cerebrovascular Disease (including Stroke); Diagnosis,Cancer (excluding non-melanoma skin cancer); Diagnosis,Falls (basic accidental falls); External cause,Coronary Artery Bypass Graft (CABG) and Percutaneous Transluminal Coronary Angioplasty (PTCA); Operation,Hip Replacement; Operation,Knee Replacement; Operation,Cataract; Operation
+,,,,,,,,,MEASUREMENT_UNIT,Count,Count,Count,Count,Count,Count,Count,Count,Count
+,,,,,,,,,STATISTICAL_UNIT,Admission Episodes,Admission Episodes,Admission Episodes,Admission Episodes,Admission Episodes,Admission Episodes,Admission Episodes,Admission Episodes,Admission Episodes
+GOR_CODE,GOR_NAME,CTY_CODE,CTY_NAME,LA_CODE,LA_NAME,FLA_CODE,FLA_NAME,AREA_METADATA,,DATA_VALUE,DATA_VALUE,DATA_VALUE,DATA_VALUE,DATA_VALUE,DATA_VALUE,DATA_VALUE,DATA_VALUE,DATA_VALUE
+"A","North East",,,"00EJ","Durham","20UB","Chester-le-Street",,,15110,1593,273,2308,406,63,73,61,478
+"A","North East",,,"00EJ","Durham","20UD","Derwentside",,,23910,2622,527,3817,753,100,116,97,684
+"A","North East",,,"00EJ","Durham","20UE","Durham",,,22183,2185,360,3234,709,106,106,106,736
+"A","North East",,,"00EJ","Durham","20UF","Easington",,,28012,3197,389,2938,679,162,133,154,897
+"A","North East",,,"00EJ","Durham","20UG","Sedgefield",,,22220,2502,358,2424,628,103,114,110,693
+"A","North East",,,"00EJ","Durham","20UH","Teesdale",,,5014,518,84,718,155,21,47,42,185
+"A","North East",,,"00EJ","Durham","20UJ","Wear Valley",,,14811,1764,290,1366,471,45,77,80,412
+"A","North East",,,"00EM","Northumberland","35UB","Alnwick",,,9296,888,206,1544,309,44,84,83,257
+"A","North East",,,"00EM","Northumberland","35UC","Berwick-upon-Tweed",,,6144,613,131,1076,214,25,59,59,248
+"A","North East",,,"00EM","Northumberland","35UD","Blyth Valley",,,24217,2135,311,2847,864,114,141,152,519
+"A","North East",,,"00EM","Northumberland","35UE","Castle Morpeth",,,14513,1384,241,2000,505,74,116,114,418
+"A","North East",,,"00EM","Northumberland","35UF","Tynedale",,,15991,1434,193,2463,576,71,130,123,470
+"A","North East",,,"00EM","Northumberland","35UG","Wansbeck",,,20633,2296,300,2124,752,117,116,168,526
+"B","North West",,,"00EQ","Cheshire East","13UC","Congleton",,,19102,1824,259,1770,721,84,153,156,431
+"B","North West",,,"00EQ","Cheshire East","13UD","Crewe and Nantwich",,,29231,2597,333,2503,1025,82,185,132,610
+"B","North West",,,"00EQ","Cheshire East","13UG","Macclesfield",,,30934,2980,600,3235,1377,169,275,249,932
+"B","North West",,,"00EW","Cheshire West and Chester","13UB","Chester",,,30349,2869,514,2560,1058,151,210,228,742
+"B","North West",,,"00EW","Cheshire West and Chester","13UE","Ellesmere Port & Neston",,,23681,2365,378,2042,765,113,152,173,518
+"B","North West",,,"00EW","Cheshire West and Chester","13UH","Vale Royal",,,29170,2713,400,2496,1075,115,177,188,616
+"F","West Midlands",,,"00GG","Shropshire","39UB","Bridgnorth",,,11214,955,174,2060,318,72,96,80,360
+"F","West Midlands",,,"00GG","Shropshire","39UC","North Shropshire",,,13849,1096,205,2422,321,60,150,147,447
+"F","West Midlands",,,"00GG","Shropshire","39UD","Oswestry",,,7561,579,124,1318,203,41,113,80,282
+"F","West Midlands",,,"00GG","Shropshire","39UE","Shrewsbury and Atcham",,,23860,1711,359,4295,653,82,217,213,774
+"F","West Midlands",,,"00GG","Shropshire","39UF","South Shropshire",,,10593,709,177,1998,295,42,121,91,382
+"G","East of England",,,"00KC","Central Bedfordshire","09UC","Mid Bedfordshire",,,23210,2252,338,2470,674,150,181,165,633
+"G","East of England",,,"00KC","Central Bedfordshire","09UE","South Bedfordshire",,,25057,2319,539,3177,694,151,136,154,616
+"K","South West",,,"00HE","Cornwall","15UB","Caradon",,,20454,1941,432,2958,626,115,165,203,672
+"K","South West",,,"00HE","Cornwall","15UC","Carrick",,,26056,1986,639,3630,846,132,146,158,1111
+"K","South West",,,"00HE","Cornwall","15UD","Kerrier",,,30006,2315,687,3963,801,150,194,151,1075
+"K","South West",,,"00HE","Cornwall","15UE","North Cornwall",,,23867,1708,571,3299,683,105,215,153,878
+"K","South West",,,"00HE","Cornwall","15UF","Penwith",,,18362,1475,349,2337,527,104,134,111,811
+"K","South West",,,"00HE","Cornwall","15UG","Restormel",,,32836,2035,622,3423,796,124,203,122,1031
+"K","South West",,,"00HY","Wiltshire","46UB","Kennet",,,15578,1102,278,1701,470,69,148,132,404
+"K","South West",,,"00HY","Wiltshire","46UC","North Wiltshire",,,26595,1769,495,3286,934,121,265,206,709
+"K","South West",,,"00HY","Wiltshire","46UD","Salisbury",,,26597,2270,374,2126,475,151,202,222,881
+"K","South West",,,"00HY","Wiltshire","46UF","West Wiltshire",,,24415,1988,659,2322,909,128,237,180,613

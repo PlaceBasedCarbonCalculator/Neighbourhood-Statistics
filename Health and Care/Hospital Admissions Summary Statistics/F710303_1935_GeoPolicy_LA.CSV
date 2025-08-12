@@ -1,0 +1,360 @@
+DATASET_TITLE,"Hospital Admissions: Summary Statistics, 2002/03",,,,,,FROM,Apr-2002,Apr-2002,Apr-2002,Apr-2002,Apr-2002,Apr-2002,Apr-2002,Apr-2002,Apr-2002
+AREA_TYPE,Local Authority,,,,,,TO,Mar-2003,Mar-2003,Mar-2003,Mar-2003,Mar-2003,Mar-2003,Mar-2003,Mar-2003,Mar-2003
+GEO_HIERARCHY,NeSS Geography Hierarchy,,,,,,HEADING,All Finished Admission Episodes,Coronary Heart Disease (CHD); Diagnosis,Cerebrovascular Disease (including Stroke); Diagnosis,Cancer (excluding non-melanoma skin cancer); Diagnosis,Falls (basic accidental falls); External cause,Coronary Artery Bypass Graft (CABG) and Percutaneous Transluminal Coronary Angioplasty (PTCA); Operation,Hip Replacement; Operation,Knee Replacement; Operation,Cataract; Operation
+,,,,,,,MEASUREMENT_UNIT,Count,Count,Count,Count,Count,Count,Count,Count,Count
+,,,,,,,STATISTICAL_UNIT,Admission Episodes,Admission Episodes,Admission Episodes,Admission Episodes,Admission Episodes,Admission Episodes,Admission Episodes,Admission Episodes,Admission Episodes
+GOR_CODE,GOR_NAME,CTY_CODE,CTY_NAME,LA_CODE,LA_NAME,AREA_METADATA,,DATA_VALUE,DATA_VALUE,DATA_VALUE,DATA_VALUE,DATA_VALUE,DATA_VALUE,DATA_VALUE,DATA_VALUE,DATA_VALUE
+"A","North East",,,"00CH","Gateshead",,,48303,5547,1023,4462,1316,252,234,223,1370
+"A","North East",,,"00CJ","Newcastle upon Tyne",,,68305,7844,1865,8452,1831,288,194,230,1719
+"A","North East",,,"00CK","North Tyneside",,,56380,3846,827,7048,1441,223,210,191,1463
+"A","North East",,,"00CL","South Tyneside",,,40621,3420,536,5164,1067,160,143,204,1362
+"A","North East",,,"00CM","Sunderland",,,70809,6104,1242,7929,2150,347,313,318,2372
+"A","North East",,,"00EB","Hartlepool",,,23816,1397,231,2281,623,51,102,133,729
+"A","North East",,,"00EC","Middlesbrough",,,37572,2593,535,3905,1043,124,114,128,673
+"A","North East",,,"00EE","Redcar and Cleveland",,,35187,2602,497,3629,976,129,151,146,772
+"A","North East",,,"00EF","Stockton-on-Tees",,,45336,2174,463,4024,722,170,170,159,969
+"A","North East",,,"00EH","Darlington",,,20254,1201,279,2336,731,86,110,96,597
+"A","North East","20","Durham","20UB","Chester-le-Street",,,11948,905,171,1690,351,41,65,33,361
+"A","North East","20","Durham","20UD","Derwentside",,,19310,1725,378,3035,545,92,98,68,608
+"A","North East","20","Durham","20UE","Durham",,,17345,1195,260,2330,504,63,77,42,595
+"A","North East","20","Durham","20UF","Easington",,,24402,1947,330,2640,677,83,111,109,801
+"A","North East","20","Durham","20UG","Sedgefield",,,18845,1289,356,2435,523,84,100,81,483
+"A","North East","20","Durham","20UH","Teesdale",,,5137,366,109,888,165,25,50,28,169
+"A","North East","20","Durham","20UJ","Wear Valley",,,12672,971,291,1674,417,36,76,81,336
+"A","North East","35","Northumberland","35UB","Alnwick",,,7814,473,183,1005,240,39,44,38,236
+"A","North East","35","Northumberland","35UC","Berwick-upon-Tweed",,,6061,360,161,745,214,21,37,30,131
+"A","North East","35","Northumberland","35UD","Blyth Valley",,,21083,1217,325,2454,521,77,80,73,514
+"A","North East","35","Northumberland","35UE","Castle Morpeth",,,12398,881,249,2013,298,48,63,50,367
+"A","North East","35","Northumberland","35UF","Tynedale",,,14308,634,198,1830,410,70,86,76,385
+"A","North East","35","Northumberland","35UG","Wansbeck",,,17099,1097,286,2050,392,59,65,87,481
+"B","North West",,,"00BL","Bolton",,,50849,5792,912,4455,1545,277,235,225,1250
+"B","North West",,,"00BM","Bury",,,39940,3920,668,3451,1123,193,145,133,917
+"B","North West",,,"00BN","Manchester",,,91109,6752,1584,8658,2089,442,254,228,1867
+"B","North West",,,"00BP","Oldham",,,55884,4938,1221,4576,1431,225,169,167,1100
+"B","North West",,,"00BQ","Rochdale",,,48859,4370,842,4488,1078,258,156,178,1223
+"B","North West",,,"00BR","Salford",,,55761,4385,1189,4523,2026,161,213,193,1266
+"B","North West",,,"00BS","Stockport",,,60759,5874,1383,5796,1688,249,277,319,2299
+"B","North West",,,"00BT","Tameside",,,45235,3270,587,3884,215,215,217,223,1119
+"B","North West",,,"00BU","Trafford",,,45146,2926,843,4825,1077,153,186,167,1032
+"B","North West",,,"00BW","Wigan",,,72508,7930,1341,8041,1648,319,288,241,1822
+"B","North West",,,"00BX","Knowsley",,,37344,4068,540,3079,1097,166,135,119,804
+"B","North West",,,"00BY","Liverpool",,,100349,9404,1747,6838,4074,533,350,309,2167
+"B","North West",,,"00BZ","St. Helens",,,41093,4550,665,4405,1190,177,171,161,1289
+"B","North West",,,"00CA","Sefton",,,61463,5710,1086,5609,1999,270,349,279,1843
+"B","North West",,,"00CB","Wirral",,,71349,4497,1204,5204,2283,308,301,260,1514
+"B","North West",,,"00ET","Halton",,,30659,3786,401,2095,911,124,104,102,713
+"B","North West",,,"00EU","Warrington",,,42498,4481,619,2608,1283,147,199,157,1182
+"B","North West",,,"00EX","Blackburn with Darwen",,,38683,1832,590,2169,968,91,132,103,846
+"B","North West",,,"00EY","Blackpool",,,40784,3075,554,3725,936,187,144,114,1231
+"B","North West","13","Cheshire","13UB","Chester",,,22990,2547,548,2863,513,119,100,92,624
+"B","North West","13","Cheshire","13UC","Congleton",,,15933,1389,273,1725,408,61,97,82,327
+"B","North West","13","Cheshire","13UD","Crewe and Nantwich",,,24820,2373,417,1719,570,68,124,73,449
+"B","North West","13","Cheshire","13UE","Ellesmere Port & Neston",,,17481,1811,417,1856,417,96,77,71,489
+"B","North West","13","Cheshire","13UG","Macclesfield",,,24726,2574,556,2822,929,102,217,124,701
+"B","North West","13","Cheshire","13UH","Vale Royal",,,24339,2395,413,1850,626,73,122,80,500
+"B","North West","16","Cumbria","16UB","Allerdale",,,21447,1264,449,1542,675,96,115,109,565
+"B","North West","16","Cumbria","16UC","Barrow-in-Furness",,,19850,1497,237,2966,552,74,103,80,567
+"B","North West","16","Cumbria","16UD","Carlisle",,,22388,1670,453,1660,686,85,112,87,648
+"B","North West","16","Cumbria","16UE","Copeland",,,16406,951,257,1168,541,85,111,62,368
+"B","North West","16","Cumbria","16UF","Eden",,,9411,626,192,880,256,42,60,55,298
+"B","North West","16","Cumbria","16UG","South Lakeland",,,23057,2030,498,3283,693,104,155,119,890
+"B","North West","30","Lancashire","30UD","Burnley",,,22029,2621,441,1738,789,106,95,77,687
+"B","North West","30","Lancashire","30UE","Chorley",,,23355,2913,458,1436,553,131,113,90,437
+"B","North West","30","Lancashire","30UF","Fylde",,,18582,1515,293,2167,432,129,89,56,679
+"B","North West","30","Lancashire","30UG","Hyndburn",,,21716,1222,413,1439,616,72,99,90,457
+"B","North West","30","Lancashire","30UH","Lancaster",,,29899,2571,553,4065,824,144,164,160,1507
+"B","North West","30","Lancashire","30UJ","Pendle",,,22087,2177,408,2049,647,101,93,96,703
+"B","North West","30","Lancashire","30UK","Preston",,,31568,3869,538,1666,888,197,125,134,581
+"B","North West","30","Lancashire","30UL","Ribble Valley",,,12026,819,253,997,420,63,77,74,290
+"B","North West","30","Lancashire","30UM","Rossendale",,,14634,1371,271,1188,437,63,56,63,472
+"B","North West","30","Lancashire","30UN","South Ribble",,,23772,2778,394,1408,658,116,140,117,488
+"B","North West","30","Lancashire","30UP","West Lancashire",,,21882,1920,492,1967,652,75,132,129,562
+"B","North West","30","Lancashire","30UQ","Wyre",,,25645,2024,394,3006,659,129,141,98,1062
+"D","Yorkshire and The Humber",,,"00CC","Barnsley",,,58877,3577,912,6031,1606,234,291,294,1982
+"D","Yorkshire and The Humber",,,"00CE","Doncaster",,,78553,8386,1976,7905,1901,393,216,223,1929
+"D","Yorkshire and The Humber",,,"00CF","Rotherham",,,61180,5950,978,6197,1593,315,267,265,1510
+"D","Yorkshire and The Humber",,,"00CG","Sheffield",,,127140,8470,1927,12386,2571,446,433,423,3817
+"D","Yorkshire and The Humber",,,"00CX","Bradford",,,115643,8277,1445,11914,2657,520,362,297,3011
+"D","Yorkshire and The Humber",,,"00CY","Calderdale",,,44184,2887,539,4194,1129,276,214,148,963
+"D","Yorkshire and The Humber",,,"00CZ","Kirklees",,,82283,5492,1019,8359,2130,417,310,303,2015
+"D","Yorkshire and The Humber",,,"00DA","Leeds",,,149613,10217,2505,14062,4817,797,601,499,3825
+"D","Yorkshire and The Humber",,,"00DB","Wakefield",,,76996,5179,1002,9041,1573,340,259,189,1298
+"D","Yorkshire and The Humber",,,"00FA","Kingston upon Hull, City of",,,60261,4340,692,4457,1650,265,215,169,1686
+"D","Yorkshire and The Humber",,,"00FB","East Riding of Yorkshire",,,68865,5442,1028,6663,1798,478,364,311,2037
+"D","Yorkshire and The Humber",,,"00FC","North East Lincolnshire",,,37593,4055,409,6546,1031,180,136,141,1054
+"D","Yorkshire and The Humber",,,"00FD","North Lincolnshire",,,40639,4975,502,6158,865,187,185,121,972
+"D","Yorkshire and The Humber",,,"00FF","York",,,35334,3573,611,2997,878,275,219,138,768
+"D","Yorkshire and The Humber","36","North Yorkshire","36UB","Craven",,,12891,687,220,1693,233,76,93,76,377
+"D","Yorkshire and The Humber","36","North Yorkshire","36UC","Hambleton",,,18867,1106,269,2293,555,72,114,81,423
+"D","Yorkshire and The Humber","36","North Yorkshire","36UD","Harrogate",,,34364,2869,855,4494,1101,100,273,199,1020
+"D","Yorkshire and The Humber","36","North Yorkshire","36UE","Richmondshire",,,9631,491,142,1199,277,32,44,45,213
+"D","Yorkshire and The Humber","36","North Yorkshire","36UF","Ryedale",,,9694,762,244,1340,279,57,80,59,372
+"D","Yorkshire and The Humber","36","North Yorkshire","36UG","Scarborough",,,24595,1777,540,3277,743,124,175,125,869
+"D","Yorkshire and The Humber","36","North Yorkshire","36UH","Selby",,,14329,1331,232,1327,332,101,79,62,281
+"E","East Midlands",,,"00FK","Derby",,,56336,5156,848,6776,1636,129,238,220,1852
+"E","East Midlands",,,"00FN","Leicester",,,70117,4486,1293,6614,432,279,135,170,1225
+"E","East Midlands",,,"00FP","Rutland",,,7143,495,160,1097,134,36,40,16,161
+"E","East Midlands",,,"00FY","Nottingham",,,61911,5188,1392,5528,2011,209,244,257,1742
+"E","East Midlands","17","Derbyshire","17UB","Amber Valley",,,25453,2567,472,3463,812,78,130,106,768
+"E","East Midlands","17","Derbyshire","17UC","Bolsover",,,17426,1807,343,1884,430,65,100,94,469
+"E","East Midlands","17","Derbyshire","17UD","Chesterfield",,,23908,2758,512,2503,559,105,113,129,639
+"E","East Midlands","17","Derbyshire","17UF","Derbyshire Dales",,,15024,1225,345,1999,564,46,101,77,412
+"E","East Midlands","17","Derbyshire","17UG","Erewash",,,23397,2123,507,2673,878,60,146,141,705
+"E","East Midlands","17","Derbyshire","17UH","High Peak",,,18071,1459,425,1649,408,63,108,99,530
+"E","East Midlands","17","Derbyshire","17UJ","North East Derbyshire",,,21675,2333,462,2678,475,82,120,121,603
+"E","East Midlands","17","Derbyshire","17UK","South Derbyshire",,,17407,814,230,1949,437,57,104,98,503
+"E","East Midlands","31","Leicestershire","31UB","Blaby",,,19704,1186,363,2707,134,95,89,69,313
+"E","East Midlands","31","Leicestershire","31UC","Charnwood",,,31096,1923,625,4167,265,154,139,119,555
+"E","East Midlands","31","Leicestershire","31UD","Harborough",,,15212,831,309,2065,176,76,73,60,222
+"E","East Midlands","31","Leicestershire","31UE","Hinckley and Bosworth",,,20653,1181,346,2984,348,102,120,74,333
+"E","East Midlands","31","Leicestershire","31UG","Melton",,,8276,548,231,1462,159,46,55,34,241
+"E","East Midlands","31","Leicestershire","31UH","North West Leicestershire",,,19339,1076,358,2441,336,63,82,79,426
+"E","East Midlands","31","Leicestershire","31UJ","Oadby and Wigston",,,12402,774,250,1730,95,57,50,47,208
+"E","East Midlands","32","Lincolnshire","32UB","Boston",,,12900,1241,270,2113,304,36,103,83,287
+"E","East Midlands","32","Lincolnshire","32UC","East Lindsey",,,31270,3520,607,4752,830,129,247,191,803
+"E","East Midlands","32","Lincolnshire","32UD","Lincoln",,,19431,1708,289,2156,597,55,85,88,355
+"E","East Midlands","32","Lincolnshire","32UE","North Kesteven",,,20124,1849,350,2951,588,99,147,118,490
+"E","East Midlands","32","Lincolnshire","32UF","South Holland",,,17014,1741,357,2414,445,64,147,154,457
+"E","East Midlands","32","Lincolnshire","32UG","South Kesteven",,,23465,2094,348,2731,745,96,153,148,639
+"E","East Midlands","32","Lincolnshire","32UH","West Lindsey",,,17178,1655,279,2855,559,80,132,82,353
+"E","East Midlands","34","Northamptonshire","34UB","Corby",,,11813,476,162,1042,54,39,64,50,330
+"E","East Midlands","34","Northamptonshire","34UC","Daventry",,,12549,756,163,1432,271,60,56,54,363
+"E","East Midlands","34","Northamptonshire","34UD","East Northamptonshire",,,14331,672,167,1259,141,64,101,79,377
+"E","East Midlands","34","Northamptonshire","34UE","Kettering",,,17064,655,214,1396,87,49,96,114,577
+"E","East Midlands","34","Northamptonshire","34UF","Northampton",,,40219,2436,542,3944,856,190,131,92,1251
+"E","East Midlands","34","Northamptonshire","34UG","South Northamptonshire",,,12692,737,220,1791,308,82,69,54,428
+"E","East Midlands","34","Northamptonshire","34UH","Wellingborough",,,14471,597,146,1354,120,48,78,70,479
+"E","East Midlands","37","Nottinghamshire","37UB","Ashfield",,,27622,2621,549,2833,710,95,128,139,644
+"E","East Midlands","37","Nottinghamshire","37UC","Bassetlaw",,,21859,2568,648,3116,697,67,130,141,700
+"E","East Midlands","37","Nottinghamshire","37UD","Broxtowe",,,21988,1916,469,3009,731,91,111,136,712
+"E","East Midlands","37","Nottinghamshire","37UE","Gedling",,,23508,1929,585,2777,725,93,137,137,702
+"E","East Midlands","37","Nottinghamshire","37UF","Mansfield",,,26988,2506,415,2902,717,107,123,164,575
+"E","East Midlands","37","Nottinghamshire","37UG","Newark and Sherwood",,,22854,2181,466,2750,670,82,156,151,566
+"E","East Midlands","37","Nottinghamshire","37UJ","Rushcliffe",,,19717,1540,407,2449,681,88,134,122,548
+"F","West Midlands",,,"00CN","Birmingham",,,212445,12700,3908,20799,6331,885,987,1121,5341
+"F","West Midlands",,,"00CQ","Coventry",,,55801,2105,797,4235,1350,230,322,276,1038
+"F","West Midlands",,,"00CR","Dudley",,,58134,3762,851,8299,1458,209,345,333,1591
+"F","West Midlands",,,"00CS","Sandwell",,,65538,4900,1497,7182,1862,353,291,276,1549
+"F","West Midlands",,,"00CT","Solihull",,,38019,1868,588,4329,1193,149,326,325,1222
+"F","West Midlands",,,"00CU","Walsall",,,57010,3095,700,7016,1453,278,296,260,1186
+"F","West Midlands",,,"00CW","Wolverhampton",,,53795,3700,1111,6187,861,238,178,188,1153
+"F","West Midlands",,,"00GA","Herefordshire, County of",,,33030,2242,896,4184,907,83,266,138,989
+"F","West Midlands",,,"00GF","Telford and Wrekin",,,30065,1874,436,3311,707,109,176,150,602
+"F","West Midlands",,,"00GL","Stoke-on-Trent",,,65732,3276,1591,6924,385,253,165,103,914
+"F","West Midlands","39","Shropshire","39UB","Bridgnorth",,,9539,524,180,1338,262,35,78,53,308
+"F","West Midlands","39","Shropshire","39UC","North Shropshire",,,11836,568,233,1511,258,54,88,61,412
+"F","West Midlands","39","Shropshire","39UD","Oswestry",,,6015,306,126,861,129,42,67,42,208
+"F","West Midlands","39","Shropshire","39UE","Shrewsbury and Atcham",,,20049,870,318,2447,533,105,136,110,691
+"F","West Midlands","39","Shropshire","39UF","South Shropshire",,,8755,420,221,1222,203,44,72,59,335
+"F","West Midlands","41","Staffordshire","41UB","Cannock Chase",,,22740,997,330,2259,357,82,97,91,427
+"F","West Midlands","41","Staffordshire","41UC","East Staffordshire",,,21846,748,271,2659,484,65,127,132,721
+"F","West Midlands","41","Staffordshire","41UD","Lichfield",,,19605,904,296,3271,488,104,135,111,562
+"F","West Midlands","41","Staffordshire","41UE","Newcastle-under-Lyme",,,30539,1595,749,3493,173,116,112,64,488
+"F","West Midlands","41","Staffordshire","41UF","South Staffordshire",,,20196,1171,394,2773,438,101,109,97,486
+"F","West Midlands","41","Staffordshire","41UG","Stafford",,,30056,1122,457,3196,510,99,137,72,608
+"F","West Midlands","41","Staffordshire","41UH","Staffordshire Moorlands",,,19609,1059,591,2839,178,90,104,81,407
+"F","West Midlands","41","Staffordshire","41UK","Tamworth",,,15373,700,199,2430,290,56,87,63,398
+"F","West Midlands","44","Warwickshire","44UB","North Warwickshire",,,12596,709,185,1148,237,68,106,92,254
+"F","West Midlands","44","Warwickshire","44UC","Nuneaton and Bedworth",,,26173,1458,424,1963,527,123,162,140,334
+"F","West Midlands","44","Warwickshire","44UD","Rugby",,,16989,1105,257,1759,447,68,106,95,327
+"F","West Midlands","44","Warwickshire","44UE","Stratford-on-Avon",,,23169,1127,355,2261,778,97,148,133,740
+"F","West Midlands","44","Warwickshire","44UF","Warwick",,,24602,1065,440,2140,878,99,144,106,971
+"F","West Midlands","47","Worcestershire","47UB","Bromsgrove",,,15416,1074,316,1318,456,57,127,107,435
+"F","West Midlands","47","Worcestershire","47UC","Malvern Hills",,,12676,743,204,2020,429,36,106,82,519
+"F","West Midlands","47","Worcestershire","47UD","Redditch",,,15835,1095,241,874,381,55,89,96,306
+"F","West Midlands","47","Worcestershire","47UE","Worcester",,,16021,961,249,2017,462,42,77,77,557
+"F","West Midlands","47","Worcestershire","47UF","Wychavon",,,21812,1373,425,3183,550,79,157,131,805
+"F","West Midlands","47","Worcestershire","47UG","Wyre Forest",,,17666,1107,231,2356,448,75,114,98,545
+"G","East of England",,,"00JA","Peterborough",,,33073,2939,405,2501,884,180,156,135,854
+"G","East of England",,,"00KA","Luton",,,33828,1909,515,1973,845,186,134,131,1173
+"G","East of England",,,"00KF","Southend-on-Sea",,,37460,3179,515,3180,941,152,214,158,854
+"G","East of England",,,"00KG","Thurrock",,,22427,1750,407,2454,455,91,108,108,793
+"G","East of England","09","Bedfordshire","09UC","Mid Bedfordshire",,,21419,1491,308,1798,422,89,145,108,492
+"G","East of England","09","Bedfordshire","09UD","Bedford",,,29715,2442,412,2349,550,134,140,117,812
+"G","East of England","09","Bedfordshire","09UE","South Bedfordshire",,,18644,1123,290,1477,517,91,110,105,668
+"G","East of England","12","Cambridgeshire","12UB","Cambridge",,,19313,1465,240,2352,697,93,70,69,436
+"G","East of England","12","Cambridgeshire","12UC","East Cambridgeshire",,,13574,1176,259,1842,431,86,85,67,399
+"G","East of England","12","Cambridgeshire","12UD","Fenland",,,18098,1887,321,1996,469,107,128,92,584
+"G","East of England","12","Cambridgeshire","12UE","Huntingdonshire",,,32841,2984,417,3800,722,202,193,123,867
+"G","East of England","12","Cambridgeshire","12UG","South Cambridgeshire",,,24580,2057,338,3747,704,148,124,113,547
+"G","East of England","22","Essex","22UB","Basildon",,,27730,2315,478,3243,588,118,140,126,962
+"G","East of England","22","Essex","22UC","Braintree",,,20380,1651,368,2183,688,110,146,120,690
+"G","East of England","22","Essex","22UD","Brentwood",,,10925,899,200,1036,319,53,58,50,379
+"G","East of England","22","Essex","22UE","Castle Point",,,17432,1514,217,1810,388,69,96,88,452
+"G","East of England","22","Essex","22UF","Chelmsford",,,24305,1765,363,2280,745,108,190,133,860
+"G","East of England","22","Essex","22UG","Colchester",,,23666,1714,375,2224,717,89,145,114,869
+"G","East of England","22","Essex","22UH","Epping Forest",,,21456,1410,451,3480,697,113,149,106,709
+"G","East of England","22","Essex","22UJ","Harlow",,,16133,1093,242,2209,437,104,88,99,552
+"G","East of England","22","Essex","22UK","Maldon",,,9503,760,144,994,281,61,73,51,285
+"G","East of England","22","Essex","22UL","Rochford",,,16071,1406,168,1676,334,55,108,85,357
+"G","East of England","22","Essex","22UN","Tendring",,,27068,2504,800,2809,1120,142,226,149,1173
+"G","East of England","22","Essex","22UQ","Uttlesford",,,11321,779,170,1733,382,53,81,55,340
+"G","East of England","26","Hertfordshire","26UB","Broxbourne",,,15512,787,223,1816,403,93,91,84,381
+"G","East of England","26","Hertfordshire","26UC","Dacorum",,,23437,1286,373,2656,720,133,180,127,598
+"G","East of England","26","Hertfordshire","26UD","East Hertfordshire",,,19979,1317,359,2505,612,115,132,108,518
+"G","East of England","26","Hertfordshire","26UE","Hertsmere",,,16001,902,326,1316,406,119,88,81,383
+"G","East of England","26","Hertfordshire","26UF","North Hertfordshire",,,20885,1597,337,1685,649,100,134,107,508
+"G","East of England","26","Hertfordshire","26UG","St Albans",,,21161,1088,334,2316,640,106,183,128,587
+"G","East of England","26","Hertfordshire","26UH","Stevenage",,,15186,1194,160,1076,423,97,74,58,234
+"G","East of England","26","Hertfordshire","26UJ","Three Rivers",,,13925,994,247,1071,343,115,92,85,357
+"G","East of England","26","Hertfordshire","26UK","Watford",,,13508,893,219,940,312,102,81,64,270
+"G","East of England","26","Hertfordshire","26UL","Welwyn Hatfield",,,16952,1462,443,1632,464,103,116,109,473
+"G","East of England","33","Norfolk","33UB","Breckland",,,26161,2255,493,3850,698,137,173,126,1125
+"G","East of England","33","Norfolk","33UC","Broadland",,,24421,1861,438,3424,662,136,206,137,1146
+"G","East of England","33","Norfolk","33UD","Great Yarmouth",,,18867,1505,357,2307,510,74,132,81,626
+"G","East of England","33","Norfolk","33UE","King's Lynn and West Norfolk",,,30903,2859,489,4519,799,144,178,155,1042
+"G","East of England","33","Norfolk","33UF","North Norfolk",,,22735,1813,519,3693,649,107,207,153,1332
+"G","East of England","33","Norfolk","33UG","Norwich",,,26471,1961,454,3280,790,89,138,123,1144
+"G","East of England","33","Norfolk","33UH","South Norfolk",,,22863,1725,457,3302,670,119,221,101,1090
+"G","East of England","42","Suffolk","42UB","Babergh",,,16778,1357,305,2156,503,85,101,83,556
+"G","East of England","42","Suffolk","42UC","Forest Heath",,,10479,852,170,1413,295,59,65,37,428
+"G","East of England","42","Suffolk","42UD","Ipswich",,,24409,2535,542,3082,859,103,116,72,654
+"G","East of England","42","Suffolk","42UE","Mid Suffolk",,,16797,1458,370,2545,510,93,100,71,567
+"G","East of England","42","Suffolk","42UF","St Edmundsbury",,,21622,1582,264,2608,602,124,109,94,666
+"G","East of England","42","Suffolk","42UG","Suffolk Coastal",,,22717,2191,681,3291,829,107,170,109,701
+"G","East of England","42","Suffolk","42UH","Waveney",,,22431,1852,582,2704,589,78,199,110,923
+"H","London",,,"00AA","City of London",,,1065,56,25,142,35,7,x,x,30
+"H","London",,,"00AB","Barking and Dagenham",,,31046,2701,547,3306,914,155,142,125,851
+"H","London",,,"00AC","Barnet",,,50163,2630,793,4296,1127,341,188,163,1347
+"H","London",,,"00AD","Bexley",,,41088,1975,578,3718,931,259,186,197,1189
+"H","London",,,"00AE","Brent",,,37895,1682,571,3704,642,301,147,205,1530
+"H","London",,,"00AF","Bromley",,,60474,3361,798,4486,1428,356,330,276,1904
+"H","London",,,"00AG","Camden",,,30845,1450,540,2732,915,126,111,91,726
+"H","London",,,"00AH","Croydon",,,49281,3621,906,5355,1342,472,235,178,1951
+"H","London",,,"00AJ","Ealing",,,51831,3655,739,6234,1108,441,167,217,1460
+"H","London",,,"00AK","Enfield",,,51320,1973,622,5543,1048,254,161,182,1612
+"H","London",,,"00AL","Greenwich",,,42929,2213,794,4476,832,184,131,109,1026
+"H","London",,,"00AM","Hackney",,,38207,1423,464,2903,579,138,78,83,737
+"H","London",,,"00AN","Hammersmith and Fulham",,,27980,1273,310,3596,832,124,86,x,636
+"H","London",,,"00AP","Haringey",,,37597,1251,468,4077,585,114,119,101,1007
+"H","London",,,"00AQ","Harrow",,,33068,2124,488,2374,774,308,125,175,1347
+"H","London",,,"00AR","Havering",,,40649,3710,713,3539,1171,243,183,232,1439
+"H","London",,,"00AS","Hillingdon",,,43055,2824,764,3440,1278,289,190,219,1309
+"H","London",,,"00AT","Hounslow",,,36724,2478,510,4752,958,291,118,221,1247
+"H","London",,,"00AU","Islington",,,29827,1333,451,3508,784,95,139,94,786
+"H","London",,,"00AW","Kensington and Chelsea",,,22306,1038,366,2724,577,118,96,x,541
+"H","London",,,"00AX","Kingston upon Thames",,,26373,1774,571,2859,965,199,144,122,820
+"H","London",,,"00AY","Lambeth",,,43612,1660,738,2964,1108,217,130,150,1154
+"H","London",,,"00AZ","Lewisham",,,44799,2340,740,2678,645,244,129,171,1092
+"H","London",,,"00BA","Merton",,,30623,1488,546,3984,878,223,138,123,898
+"H","London",,,"00BB","Newham",,,45825,2867,603,3315,1031,162,103,93,1022
+"H","London",,,"00BC","Redbridge",,,42171,3455,746,5874,1080,273,195,154,1464
+"H","London",,,"00BD","Richmond upon Thames",,,27722,1640,555,3990,1051,197,158,137,929
+"H","London",,,"00BE","Southwark",,,42643,1712,741,2448,1039,219,156,150,1025
+"H","London",,,"00BF","Sutton",,,34085,1505,505,3582,713,225,154,149,905
+"H","London",,,"00BG","Tower Hamlets",,,34579,2091,683,2470,658,105,x,91,668
+"H","London",,,"00BH","Waltham Forest",,,39177,2571,710,3873,1073,162,109,138,1342
+"H","London",,,"00BJ","Wandsworth",,,40685,2047,800,4536,1461,243,163,159,1213
+"H","London",,,"00BK","Westminster",,,30602,1671,629,3309,880,154,119,95,775
+"J","South East",,,"00LC","Medway",,,41105,3298,862,3162,1219,163,220,176,997
+"J","South East",,,"00MA","Bracknell Forest",,,18403,817,210,1186,429,93,91,85,346
+"J","South East",,,"00MB","West Berkshire",,,22820,859,322,1850,251,137,180,122,260
+"J","South East",,,"00MC","Reading",,,26021,986,306,1749,293,156,142,109,563
+"J","South East",,,"00MD","Slough",,,24178,1069,247,1181,487,140,79,138,453
+"J","South East",,,"00ME","Windsor and Maidenhead",,,22947,1001,267,1675,672,145,134,128,499
+"J","South East",,,"00MF","Wokingham",,,21985,889,306,1935,295,160,156,123,482
+"J","South East",,,"00MG","Milton Keynes",,,33542,2297,527,4179,920,158,152,125,671
+"J","South East",,,"00ML","Brighton and Hove",,,41493,2418,749,2676,1368,273,202,189,1362
+"J","South East",,,"00MR","Portsmouth",,,39959,2865,689,2853,1345,64,181,152,1117
+"J","South East",,,"00MS","Southampton",,,43041,1996,649,3262,747,118,227,217,1011
+"J","South East",,,"00MW","Isle of Wight",,,24041,1404,492,2056,528,131,310,290,749
+"J","South East","11","Buckinghamshire","11UB","Aylesbury Vale",,,24096,1527,380,1737,535,148,198,165,971
+"J","South East","11","Buckinghamshire","11UC","Chiltern",,,12574,1045,318,1356,505,114,104,67,355
+"J","South East","11","Buckinghamshire","11UE","South Bucks",,,10687,618,170,922,346,65,52,60,295
+"J","South East","11","Buckinghamshire","11UF","Wycombe",,,25630,2075,456,2664,818,197,181,142,695
+"J","South East","21","East Sussex","21UC","Eastbourne",,,21228,2307,378,2269,780,150,140,129,741
+"J","South East","21","East Sussex","21UD","Hastings",,,18319,1299,396,1242,762,105,80,66,397
+"J","South East","21","East Sussex","21UF","Lewes",,,17602,1323,318,1624,527,140,115,103,662
+"J","South East","21","East Sussex","21UG","Rother",,,17616,1691,586,1907,850,138,117,100,632
+"J","South East","21","East Sussex","21UH","Wealden",,,27036,2909,467,3211,881,220,189,176,994
+"J","South East","24","Hampshire","24UB","Basingstoke and Deane",,,29548,1501,358,2811,459,192,166,152,862
+"J","South East","24","Hampshire","24UC","East Hampshire",,,19291,1213,362,1816,591,95,119,112,652
+"J","South East","24","Hampshire","24UD","Eastleigh",,,20299,1323,356,1992,440,84,129,115,649
+"J","South East","24","Hampshire","24UE","Fareham",,,19967,1493,383,1885,577,56,111,107,674
+"J","South East","24","Hampshire","24UF","Gosport",,,16047,1286,274,1348,463,49,86,107,375
+"J","South East","24","Hampshire","24UG","Hart",,,13851,928,198,1642,335,88,85,74,386
+"J","South East","24","Hampshire","24UH","Havant",,,25218,1933,471,1927,820,72,159,144,678
+"J","South East","24","Hampshire","24UJ","New Forest",,,38429,1894,680,3981,720,134,273,195,1281
+"J","South East","24","Hampshire","24UL","Rushmoor",,,15697,1239,207,1272,489,92,83,71,349
+"J","South East","24","Hampshire","24UN","Test Valley",,,19239,1251,393,1723,497,81,103,93,583
+"J","South East","24","Hampshire","24UP","Winchester",,,18120,1297,320,1509,626,66,101,97,518
+"J","South East","29","Kent","29UB","Ashford",,,18593,1737,250,2586,570,126,102,107,548
+"J","South East","29","Kent","29UC","Canterbury",,,26846,2454,421,4160,937,114,125,110,1013
+"J","South East","29","Kent","29UD","Dartford",,,14446,513,156,933,426,74,100,82,432
+"J","South East","29","Kent","29UE","Dover",,,20397,2019,389,3078,681,120,130,138,719
+"J","South East","29","Kent","29UG","Gravesham",,,15738,661,200,892,513,87,107,96,445
+"J","South East","29","Kent","29UH","Maidstone",,,21123,1791,411,2195,630,128,82,90,596
+"J","South East","29","Kent","29UK","Sevenoaks",,,18278,1090,293,1505,620,105,134,112,693
+"J","South East","29","Kent","29UL","Shepway",,,20205,1996,355,3234,641,121,115,88,652
+"J","South East","29","Kent","29UM","Swale",,,21514,1922,553,2421,695,82,106,84,630
+"J","South East","29","Kent","29UN","Thanet",,,30351,3484,716,4836,969,160,167,134,1070
+"J","South East","29","Kent","29UP","Tonbridge and Malling",,,17301,1344,320,1617,496,119,105,100,526
+"J","South East","29","Kent","29UQ","Tunbridge Wells",,,16509,1278,343,1372,654,95,125,77,551
+"J","South East","38","Oxfordshire","38UB","Cherwell",,,20197,1040,331,2223,571,98,155,118,718
+"J","South East","38","Oxfordshire","38UC","Oxford",,,20050,799,319,2006,524,60,148,117,861
+"J","South East","38","Oxfordshire","38UD","South Oxfordshire",,,20003,856,381,2208,411,104,202,136,683
+"J","South East","38","Oxfordshire","38UE","Vale of White Horse",,,16769,813,315,2413,464,82,206,136,746
+"J","South East","38","Oxfordshire","38UF","West Oxfordshire",,,14048,563,375,1675,400,52,176,120,665
+"J","South East","43","Surrey","43UB","Elmbridge",,,17911,1154,448,2368,752,152,104,80,503
+"J","South East","43","Surrey","43UC","Epsom and Ewell",,,12195,831,304,1507,463,52,61,78,261
+"J","South East","43","Surrey","43UD","Guildford",,,19743,1407,327,1805,714,112,104,97,713
+"J","South East","43","Surrey","43UE","Mole Valley",,,13672,951,257,1510,586,78,75,87,326
+"J","South East","43","Surrey","43UF","Reigate and Banstead",,,20266,1216,315,2086,719,98,79,87,487
+"J","South East","43","Surrey","43UG","Runnymede",,,12092,803,209,1563,385,90,91,84,361
+"J","South East","43","Surrey","43UH","Spelthorne",,,15859,1275,289,2177,406,116,89,121,469
+"J","South East","43","Surrey","43UJ","Surrey Heath",,,14007,1055,239,1690,437,87,99,75,302
+"J","South East","43","Surrey","43UK","Tandridge",,,11668,712,146,1194,391,76,41,36,373
+"J","South East","43","Surrey","43UL","Waverley",,,19586,1478,335,1965,718,118,110,77,686
+"J","South East","43","Surrey","43UM","Woking",,,13056,808,230,1381,510,105,71,80,350
+"J","South East","45","West Sussex","45UB","Adur",,,14468,712,181,1927,406,77,96,56,501
+"J","South East","45","West Sussex","45UC","Arun",,,33903,2150,770,3409,1011,150,292,211,1000
+"J","South East","45","West Sussex","45UD","Chichester",,,22460,1462,632,1884,610,80,186,164,426
+"J","South East","45","West Sussex","45UE","Crawley",,,17172,1115,217,1415,376,125,76,80,420
+"J","South East","45","West Sussex","45UF","Horsham",,,19921,1337,400,2245,601,134,125,102,493
+"J","South East","45","West Sussex","45UG","Mid Sussex",,,18731,1517,318,1533,520,154,119,77,734
+"J","South East","45","West Sussex","45UH","Worthing",,,24798,1186,417,2509,880,110,123,111,819
+"K","South West",,,"00HA","Bath and North East Somerset",,,28993,1603,647,2764,995,115,183,130,1213
+"K","South West",,,"00HB","Bristol, City of",,,81715,6005,1545,9974,2223,232,363,404,2482
+"K","South West",,,"00HC","North Somerset",,,41209,3948,832,5782,1169,139,300,221,1198
+"K","South West",,,"00HD","South Gloucestershire",,,48338,3944,864,6835,1124,176,282,241,1393
+"K","South West",,,"00HG","Plymouth",,,50533,3886,801,5715,1422,215,203,155,1375
+"K","South West",,,"00HH","Torbay",,,26221,1852,539,2173,1049,133,176,98,1003
+"K","South West",,,"00HN","Bournemouth",,,45646,2017,329,4637,1247,95,259,178,1276
+"K","South West",,,"00HP","Poole",,,35741,3156,729,3535,1109,145,194,149,874
+"K","South West",,,"00HX","Swindon",,,31292,2037,486,3261,831,139,198,150,832
+"K","South West","15","Cornwall and Isles of Scilly","15UB","Caradon",,,16911,1405,376,2375,444,105,81,66,465
+"K","South West","15","Cornwall and Isles of Scilly","15UC","Carrick",,,24146,1411,475,3135,621,96,107,64,828
+"K","South West","15","Cornwall and Isles of Scilly","15UD","Kerrier",,,27088,1587,488,3353,643,91,121,66,711
+"K","South West","15","Cornwall and Isles of Scilly","15UE","North Cornwall",,,19043,1279,439,2564,484,61,133,64,607
+"K","South West","15","Cornwall and Isles of Scilly","15UF","Penwith",,,17646,1146,320,2297,486,69,58,x,495
+"K","South West","15","Cornwall and Isles of Scilly","15UG","Restormel",,,25449,1545,458,3087,604,105,106,84,724
+"K","South West","15","Cornwall and Isles of Scilly","15UH","Isles of Scilly",,,630,14,x,62,15,-,x,x,14
+"K","South West","18","Devon","18UB","East Devon",,,32808,2075,781,6108,1006,138,264,223,1025
+"K","South West","18","Devon","18UC","Exeter",,,25201,1460,596,3225,743,113,157,130,552
+"K","South West","18","Devon","18UD","Mid Devon",,,16402,861,297,2245,414,74,144,107,435
+"K","South West","18","Devon","18UE","North Devon",,,21483,1672,350,2703,562,70,124,108,627
+"K","South West","18","Devon","18UG","South Hams",,,15863,1063,331,2031,527,71,84,70,557
+"K","South West","18","Devon","18UH","Teignbridge",,,25135,1603,605,2898,884,119,161,133,940
+"K","South West","18","Devon","18UK","Torridge",,,13553,1355,364,2130,347,70,106,55,408
+"K","South West","18","Devon","18UL","West Devon",,,10545,637,200,1759,278,51,80,41,292
+"K","South West","19","Dorset","19UC","Christchurch",,,14960,682,x,2007,358,44,89,71,550
+"K","South West","19","Dorset","19UD","East Dorset",,,22532,1527,334,3035,555,84,181,125,686
+"K","South West","19","Dorset","19UE","North Dorset",,,13587,937,274,1565,366,47,105,82,340
+"K","South West","19","Dorset","19UG","Purbeck",,,11159,1014,271,1226,284,37,x,48,312
+"K","South West","19","Dorset","19UH","West Dorset",,,24124,1462,534,2727,639,84,187,120,787
+"K","South West","19","Dorset","19UJ","Weymouth and Portland",,,17038,947,301,1849,364,53,98,74,484
+"K","South West","23","Gloucestershire","23UB","Cheltenham",,,22074,1439,432,3313,688,70,122,94,850
+"K","South West","23","Gloucestershire","23UC","Cotswold",,,17448,1386,410,2974,553,70,148,85,565
+"K","South West","23","Gloucestershire","23UD","Forest of Dean",,,14906,993,243,2429,387,85,126,124,374
+"K","South West","23","Gloucestershire","23UE","Gloucester",,,23187,1496,313,3119,550,103,130,106,561
+"K","South West","23","Gloucestershire","23UF","Stroud",,,22364,1321,327,3498,601,108,147,110,705
+"K","South West","23","Gloucestershire","23UG","Tewkesbury",,,15466,1121,243,2587,385,76,140,96,569
+"K","South West","40","Somerset","40UB","Mendip",,,18486,1321,474,1989,621,90,172,119,603
+"K","South West","40","Somerset","40UC","Sedgemoor",,,23810,2371,602,3120,650,123,159,134,872
+"K","South West","40","Somerset","40UD","South Somerset",,,32825,3149,818,2961,989,180,347,247,1170
+"K","South West","40","Somerset","40UE","Taunton Deane",,,23322,2337,543,2570,628,115,144,119,772
+"K","South West","40","Somerset","40UF","West Somerset",,,7976,886,228,1110,252,33,71,56,381
+"K","South West","46","Wiltshire","46UB","Kennet",,,12371,748,225,1465,352,57,100,90,369
+"K","South West","46","Wiltshire","46UC","North Wiltshire",,,20088,1126,425,2036,643,73,145,108,573
+"K","South West","46","Wiltshire","46UD","Salisbury",,,24101,1743,325,3402,627,59,151,122,710
+"K","South West","46","Wiltshire","46UF","West Wiltshire",,,19868,1198,487,1722,597,64,131,86,635
